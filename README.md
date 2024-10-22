@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Abhishek
 
+![Tech Background](https://images.unsplash.com/photo-1566477073511-6016fc7d4fc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2huYWx8ZW58MHx8fHwxNjg0NjM2MDM4&ixlib=rb-4.0.3&q=80&w=1080)
+
 Welcome to my GitHub profile! I'm a **Software Engineer** experienced in developing scalable solutions, particularly in **Java** and **cloud technologies**. My career is marked by a commitment to delivering reliable and efficient systems that enhance operational effectiveness. I'm passionate about leveraging technology to solve complex problems.
 
 ## 🔧 Technologies & Tools
@@ -22,18 +24,21 @@ Welcome to my GitHub profile! I'm a **Software Engineer** experienced in develop
 
 ### 📂 Projects
 Here are some of the projects I’m most proud of:
-- **[Career Services Platform]**  
-  Developed a robust platform enabling employers to post job listings and candidates to apply, supporting over 500 concurrent postings and managing 10,000+ active profiles.
+- **Career Services Platform**  
+  Developed a robust platform enabling employers to post job listings and candidates to apply, supporting over 500 concurrent postings and managing 10,000+ active profiles.  
+  ![Career Services](https://media.giphy.com/media/2uXyEDqflI5SpL0Um4/giphy.gif)
 
-- **[Plagiarism Detection Program]**  
-  Created a Java-based program to detect plagiarism in source code and text documents, achieving a 94% success rate in identifying instances of plagiarism.
+- **Plagiarism Detection Program**  
+  Created a Java-based program to detect plagiarism in source code and text documents, achieving a 94% success rate in identifying instances of plagiarism.  
+  ![Plagiarism Detection](https://media.giphy.com/media/QTUk0MCwc89R0/giphy.gif)
 
-- **[College Application Approval System]**  
-  Designed a scalable application for university applications, managing over 1,000 submissions monthly and providing teachers with an efficient review platform.
+- **College Application Approval System**  
+  Designed a scalable application for university applications, managing over 1,000 submissions monthly and providing teachers with an efficient review platform.  
+  ![College Application](https://media.giphy.com/media/3oz8xJflU30HBYMuM8/giphy.gif)
 
-- **[Face Mask Detection Model]**  
-  Developed a neural network model to detect various types of face masks, such as N95 and surgical masks, on human faces. Collaborated on data cleaning and training tasks while applying bias detection techniques to ensure model fairness, achieving a detection accuracy of **75.68%**.
-
+- **Face Mask Detection Model**  
+  Developed a neural network model to detect various types of face masks, such as N95 and surgical masks, on human faces. Collaborated on data cleaning and training tasks while applying bias detection techniques to ensure model fairness, achieving a detection accuracy of **75.68%**.  
+  ![Face Mask Detection](https://media.giphy.com/media/3oz8xT4iWnTDDNcEao/giphy.gif)
 
 ## 🌱 Continuous Learning Journey
 I am actively expanding my skill set in the following areas:
