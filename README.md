@@ -22,16 +22,16 @@ Welcome to my GitHub profile! I'm a **Software Engineer** experienced in develop
 
 ### 📂 Projects
 Here are some of the projects I’m most proud of:
-- **[Career Services Platform](#)**  
+- **[Career Services Platform]**  
   Developed a robust platform enabling employers to post job listings and candidates to apply, supporting over 500 concurrent postings and managing 10,000+ active profiles.
 
-- **[Plagiarism Detection Program](#)**  
+- **[Plagiarism Detection Program]**  
   Created a Java-based program to detect plagiarism in source code and text documents, achieving a 94% success rate in identifying instances of plagiarism.
 
-- **[College Application Approval System](#)**  
+- **[College Application Approval System]**  
   Designed a scalable application for university applications, managing over 1,000 submissions monthly and providing teachers with an efficient review platform.
 
-  - **[Face Mask Detection Model](#)**  
+- **[Face Mask Detection Model]**  
   Developed a neural network model to detect various types of face masks, such as N95 and surgical masks, on human faces. Collaborated on data cleaning and training tasks while applying bias detection techniques to ensure model fairness, achieving a detection accuracy of **75.68%**.
 
 
