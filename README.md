@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm a **Software Engineer** experienced in developing scalable solutions, particularly in **Java** and **cloud technologies**. My career is marked by a commitment to delivering reliable and efficient systems that enhance operational effectiveness. I'm passionate about leveraging technology to solve complex problems.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages**: Java, Python, C++, SQL
+- **Programming Languages**: Java, JavaScript, Python, C++, SQL
 - **Frameworks**: Spring, React, Angular, NodeJS, TensorFlow, PyTorch, Bootstrap
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **AI & Data**: Machine Learning, Data Analysis, Convolutional Neural Networks, Large Language Models
 - **Cloud**: AWS
 - **Version Control**: Git, GitHub
-- **Methodologies**: Agile, Waterfall, Microservices, Test Driven Development, Software Development Life Cycle, CI/CD
+- **Methodologies**: Agile, Waterfall, Microservices, Test Driven Development, Software Development Life Cycle
 - **Others**: Docker, Kubernetes, CI/CD with GitHub Actions, JUnit, Mockito, Swagger
 - **Languages**: English, French, Hindi, Punjabi
 
@@ -20,29 +20,14 @@ Welcome to my GitHub profile! I'm a **Software Engineer** experienced in develop
 - **Bachelor of Engineering in Computer Science**  
   Chitkara University, Himachal Pradesh, India (July 2020)
 
-### 📂 Projects
-Here are some of the projects I’m most proud of:
-- **Career Services Platform**  
-  Developed a robust platform enabling employers to post job listings and candidates to apply, supporting over 500 concurrent postings and managing 10,000+ active profiles.
-
-- **Plagiarism Detection Program**  
-  Created a Java-based program to detect plagiarism in source code and text documents, achieving a 94% success rate in identifying instances of plagiarism.
-
-- **College Application Approval System**  
-  Designed a scalable application for university applications, managing over 1,000 submissions monthly and providing teachers with an efficient review platform.
-
-- **Face Mask Detection Model**  
-  Developed a neural network model to detect various types of face masks, such as N95 and surgical masks, on human faces. Collaborated on data cleaning and training tasks while applying bias detection techniques to ensure model fairness, achieving a detection accuracy of **75.68%**.
-
-
 ## 🌱 Continuous Learning Journey
 I am actively expanding my skill set in the following areas:
-- **AI and Data Technologies**: Delving into machine learning algorithms and data analysis techniques to harness the power of data-driven decision-making.
 - **Advanced Backend Architecture**: Exploring architectural patterns and best practices for building robust, scalable backend systems.
+- **AI and Data Technologies**: Delving into machine learning algorithms and data analysis techniques to harness the power of data-driven decision-making.
 - **DevOps Practices**: Enhancing my proficiency with **Docker** and **Kubernetes** to streamline deployment processes and improve collaboration between development and operations teams.
 
 ## 🎯 Aspirations for the Future
-- **Pursue a Career in AI and Data**: I aim to make significant contributions in the AI and Data fields by developing innovative solutions that leverage emerging technologies.
+- **Pursue a Career in IT**: I aim to make significant contributions to the Information Technology field by developing innovative solutions that leverage emerging technologies.
 - **Enhance Leadership Skills**: I aspire to take on leadership roles where I can mentor and guide junior developers, fostering a culture of collaboration and innovation within teams.
 - **Master Cloud-Native Technologies**: I aim to deepen my understanding of cloud-native architectures and large-scale systems to design and implement resilient solutions in diverse environments.
 
